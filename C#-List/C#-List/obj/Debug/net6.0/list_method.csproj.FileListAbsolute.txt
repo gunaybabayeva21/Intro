@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\list_method\list_method\bin\Debug\net6.0\list_method.exe
+C:\Users\asus\Desktop\list_method\list_method\bin\Debug\net6.0\list_method.deps.json
+C:\Users\asus\Desktop\list_method\list_method\bin\Debug\net6.0\list_method.runtimeconfig.json
+C:\Users\asus\Desktop\list_method\list_method\bin\Debug\net6.0\list_method.dll
+C:\Users\asus\Desktop\list_method\list_method\bin\Debug\net6.0\list_method.pdb
+C:\Users\asus\Desktop\list_method\list_method\obj\Debug\net6.0\list_method.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\list_method\list_method\obj\Debug\net6.0\list_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\list_method\list_method\obj\Debug\net6.0\list_method.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\list_method\list_method\obj\Debug\net6.0\list_method.AssemblyInfo.cs
+C:\Users\asus\Desktop\list_method\list_method\obj\Debug\net6.0\list_method.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\list_method\list_method\obj\Debug\net6.0\list_method.dll
+C:\Users\asus\Desktop\list_method\list_method\obj\Debug\net6.0\refint\list_method.dll
+C:\Users\asus\Desktop\list_method\list_method\obj\Debug\net6.0\list_method.pdb
+C:\Users\asus\Desktop\list_method\list_method\obj\Debug\net6.0\list_method.genruntimeconfig.cache
+C:\Users\asus\Desktop\list_method\list_method\obj\Debug\net6.0\ref\list_method.dll

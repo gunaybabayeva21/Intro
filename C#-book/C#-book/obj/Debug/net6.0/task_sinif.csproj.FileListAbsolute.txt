@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\Sinif\task_sinif\task_sinif\bin\Debug\net6.0\task_sinif.exe
+C:\Users\asus\Desktop\Sinif\task_sinif\task_sinif\bin\Debug\net6.0\task_sinif.deps.json
+C:\Users\asus\Desktop\Sinif\task_sinif\task_sinif\bin\Debug\net6.0\task_sinif.runtimeconfig.json
+C:\Users\asus\Desktop\Sinif\task_sinif\task_sinif\bin\Debug\net6.0\task_sinif.dll
+C:\Users\asus\Desktop\Sinif\task_sinif\task_sinif\bin\Debug\net6.0\task_sinif.pdb
+C:\Users\asus\Desktop\Sinif\task_sinif\task_sinif\obj\Debug\net6.0\task_sinif.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Sinif\task_sinif\task_sinif\obj\Debug\net6.0\task_sinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Sinif\task_sinif\task_sinif\obj\Debug\net6.0\task_sinif.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Sinif\task_sinif\task_sinif\obj\Debug\net6.0\task_sinif.AssemblyInfo.cs
+C:\Users\asus\Desktop\Sinif\task_sinif\task_sinif\obj\Debug\net6.0\task_sinif.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Sinif\task_sinif\task_sinif\obj\Debug\net6.0\task_sinif.dll
+C:\Users\asus\Desktop\Sinif\task_sinif\task_sinif\obj\Debug\net6.0\refint\task_sinif.dll
+C:\Users\asus\Desktop\Sinif\task_sinif\task_sinif\obj\Debug\net6.0\task_sinif.pdb
+C:\Users\asus\Desktop\Sinif\task_sinif\task_sinif\obj\Debug\net6.0\task_sinif.genruntimeconfig.cache
+C:\Users\asus\Desktop\Sinif\task_sinif\task_sinif\obj\Debug\net6.0\ref\task_sinif.dll

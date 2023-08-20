@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "exseption_sinif_hotel/1.0.0": {
+        "runtime": {
+          "exseption_sinif_hotel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exseption_sinif_hotel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
